@@ -1,0 +1,5 @@
+Test\Iuran\DAO\IuranDao.class
+Test\Iuran\Model\IuranModel.class
+Test\Iuran\IuranApplication.class
+Test\Iuran\Repository\IuranRepository.class
+Test\Iuran\Controller\IuranController.class
